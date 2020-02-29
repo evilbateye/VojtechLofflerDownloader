@@ -1,0 +1,2 @@
+# VojtechLofflerDownloader
+FFox downloader Addin
